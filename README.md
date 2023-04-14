@@ -1,5 +1,5 @@
 # SummonersWar-Farming-Bot
-The given code seems to be a script for automating a game called Summoner's War. The script is written in Python, and it uses several libraries, including threading, tkinter, os.path, time, and PIL. The script uses PyAutoGUI to simulate mouse and keyboard inputs and OpenCV to capture screenshots. The script is mainly responsible for farming a dungeon called Giant's Keep and collecting rewards.
+The given code is a script for automating a game called Summoner's War. The script is written in Python, and it uses several libraries, including threading, tkinter, os.path, time, and PIL. The script uses PyAutoGUI to simulate mouse and keyboard inputs and OpenCV to capture screenshots. The script is mainly responsible for farming a dungeon called Giant's Keep and collecting rewards.
 
 The script defines several functions such as start, chest, sell, rep, and claim. The start function starts the game by clicking on the "Start Battle" button. The chest function collects the rewards by clicking on the "Chest" button. The sell function sells the rare runes obtained during the dungeon run. The rep function restarts the dungeon run if the game is over. The claim function collects the rewards from the dungeon run, including runes, scrolls, and other items.
 
