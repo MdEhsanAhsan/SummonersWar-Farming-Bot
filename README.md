@@ -6,5 +6,3 @@ The script defines several functions such as start, chest, sell, rep, and claim.
 The script also defines several global variables such as h, leg, e, f, r, ra, us, ms, ss, sOh, sOt, sOc, rp, and ref. These variables keep track of various statistics such as the number of hero/legend runes obtained, the number of rare runes sold, the number of failed runs, the number of rainbowmon obtained, the number of unknown scrolls obtained, the number of mystical scrolls obtained, the number of summoning stones obtained, the number of symbols obtained, the number of rune pieces obtained, and the number of refills used.
 
 The script also defines a function called updater that updates the tkinter labels with the current statistics. The script creates a tkinter GUI with several labels that display the statistics. The script uses threading to run the GUI in a separate thread so that the GUI does not freeze while the game is running.
-
-TESTING
